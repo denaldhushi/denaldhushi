@@ -1,16 +1,41 @@
-### Hi there 👋
+<div align="center">
+   <h1>Hi there, I'm <a href="https://smarttr.ee">Denald</a></h1>
+</div>
 
-<!--
-**denaldhushi/denaldhushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   <a href="https://www.linkedin.com/in/denaldhushi/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
+ </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+<h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Denald Hushi | 💻 Full Stack Developer | 🛸 Albania , AL <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+
+
+<p align="center">
+   <a href="https://badges.pufler.dev/years/denaldhushi">
+     <img alt="denaldhushi github" src="https://badges.pufler.dev/years/denaldhushi/">
+  </a>
+   <a href="https://badges.pufler.dev/repos/denaldhushi">
+     <img alt="denaldhushi github" src="https://badges.pufler.dev/repos/denaldhushi/">
+  </a>
+ </p>
+ 
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=denaldhushi&show_icons=true"/>
+  </a>
+</p>
+
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=denaldhushi&show_icons=true"/>
+</a>
+</p>
+
+<p align="center">Made with ❤️ in Albania</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
