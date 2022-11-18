@@ -25,17 +25,16 @@
  </p>
  
 <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=denaldhushi&show_icons=true"/>
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=denaldhushi&show_icons=true)"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=denaldhushi&show_icons=true"/>
   </a>
 </p>
 
 <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=denaldhushi&show_icons=true"/>
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=denaldhushi&show_icons=true)"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denaldhushi&show_icons=true"/>
 </a>
 </p>
-
 <p align="center">Made with ❤️ in Albania</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
