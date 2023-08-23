@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://smarttr.ee">Denald</a></h1>
+   <h1>Hi there, I'm <a href="https://linkbiofy.com/">Denald</a></h1>
 </div>
 
 <p align='center'>
